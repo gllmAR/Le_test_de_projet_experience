@@ -6,6 +6,9 @@ allo
 
 allo2 
 
+
+allo4 
+
 ## pédagogique
 
 ## ajouter une ligne au readme
